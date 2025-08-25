@@ -33,19 +33,6 @@ It allows designers to create, customize, and visualize room layouts in **2D and
 
 ---
 
-## 📂 Project Structure
-
-.
-├── app/ or pages/ # Next.js routing (depends on setup)
-├── components/ # Reusable UI components
-│ ├── ui/ # Buttons, cards, toggles
-│ ├── dashboard/ # Sidebar, furniture library, popups
-├── lib/ # State management and helper functions
-├── public/ # Static assets
-├── styles/ # Tailwind styles
-└── README.md # Project documentation
-
-
 # Installation
 
 ### Clone Repository
