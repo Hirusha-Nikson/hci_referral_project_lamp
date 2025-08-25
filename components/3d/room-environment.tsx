@@ -1,3 +1,4 @@
+"use client";
 import { RoomConfig } from '@/lib/store'
 
 interface RoomEnvironmentProps {
