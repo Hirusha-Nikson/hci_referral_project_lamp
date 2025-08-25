@@ -49,7 +49,7 @@ It allows designers to create, customize, and visualize room layouts in **2D and
 
 ### Clone Repository
 ```bash
-[git clone https://github.com/your-username/lamp-app.git](https://github.com/Hirusha-Nikson/hci_referral_project_lamp.git)
+git clone https://github.com/your-username/lamp-app.git
 ```
 
 ### Navigate to root
