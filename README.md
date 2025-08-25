@@ -1,3 +1,4 @@
+![Lamp App Banner](./public/desk-lamp.gif)
 # Lamp – Furniture Design Studio
 
 Lamp is a frontend-focused web application built with **Next.js (TypeScript + React)**, showcasing **UI** and **HCI (Human–Computer Interaction)** skills.  
